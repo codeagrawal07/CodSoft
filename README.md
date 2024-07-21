@@ -44,7 +44,7 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
 *Files:* 
 - [OOP_Examples.java](tasks/task3/OOP_Examples.java)
 
-## Task 4:  Currency Converter
+## Task 4: Currency Converter
 *Date:* July 18, 2024
 
 *Description:* 
