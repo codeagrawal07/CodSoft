@@ -62,16 +62,7 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
 
 *Files:* 
 - [DataStructures.java](tasks/task4/DataStructures.java)
-
-
-
-
-
-
-
-
-
-
+- 
 ## Task 5: Student Management System
 *Date:* July 25, 2024
 
