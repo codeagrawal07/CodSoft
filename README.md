@@ -21,7 +21,7 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
   limit the number of attempts and allow multiple rounds for a more engaging experience.
 
 *Files:* 
-- [setup_instructions.md](tasks/task1/setup_instructions.md)
+- [Task_01](Task_01/Number_Game.java)
 
 ## Task 2: Student Grade Calculator
 *Date:* July 7, 2024
