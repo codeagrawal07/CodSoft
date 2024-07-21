@@ -10,7 +10,6 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
 - [Task 3: ATM Interface](#task-3-ATM-Interface)
 - [Task 4: Currency Converter](#task-4-Currency-Converter)
 - [Task 5: Student Management System](#task-5-Student-Management-Systems)
-- [Conclusion](#conclusion)
 
 ## Task 1: Number Game
 *Date:* July 1, 2024
@@ -52,11 +51,11 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
 - A real-time currency converter using the powerful FastForex.io
   API and Java Swing/AWT for the GUI!
 
-🔹 Currency Selection: Users can effortlessly choose their base and target currencies. 
-🔹 Real-Time Rates: Fetches the latest exchange rates from a reliable API. 
-🔹 User Input: Accepts user input for the amount they wish to convert. 
-🔹 Currency Conversion: Accurately converts the amount using the fetched exchange rate. 
-🔹 Display Result: Shows the converted amount along with the target currency 
+- Currency Selection: Users can effortlessly choose their base and target currencies. 
+- Real-Time Rates: Fetches the latest exchange rates from a reliable API. 
+- User Input: Accepts user input for the amount they wish to convert. 
+- Currency Conversion: Accurately converts the amount using the fetched exchange rate. 
+- Display Result: Shows the converted amount along with the target currency 
 
 - This project was a great opportunity to Learn use of API(Application Programming Interface) 
   to fetches real-time-data into a user-friendly application. 
