@@ -32,17 +32,22 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
   percentage achieved by user
 
 *Files:* 
-- [BasicPrograms.java](tasks/task2/BasicPrograms.java)
+- [Task_02](Task_02/mainFrame.java)
 ## Task 3: ATM Interface
 *Date:* July 12, 2024
 
 *Description:* 
-- Understanding the principles of OOP (Object-Oriented Programming)
-- Creating classes and objects
-- Implementing inheritance, polymorphism, encapsulation, and abstraction
+Task 3: ATM Interface
+
+1. Class for ATM Machine: Developed a class representing the ATM with core functionalities.
+2. User Interface Design: Created an intuitive UI with options to withdraw, deposit, check balance, clear and Exit.
+3. Method Implementation: Implemented methods for each transaction type -   withdraw(amount),deposit(amount),checkBalance()
+4. User's Bank Account Class: Designed a class to store and manage the user's account balance.
+5. Integration: Connected the ATM class with the bank account class for seamless balance management.
+6. User Feedback: Displayed appropriate messages based on user actions and transaction outcomes ex- "Deposit Successful!".
 
 *Files:* 
-- [OOP_Examples.java](tasks/task3/OOP_Examples.java)
+- [Task_03](Task_03/AtmInterface.java)
 
 ## Task 4: Currency Converter
 *Date:* July 18, 2024
@@ -61,7 +66,7 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
   to fetches real-time-data into a user-friendly application. 
 
 *Files:* 
-- [DataStructures.java](tasks/task4/DataStructures.java)
+- [Task_04](Task_04/CurrencyConverter.java)
 - 
 ## Task 5: Student Management System
 *Date:* July 25, 2024
