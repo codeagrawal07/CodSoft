@@ -9,7 +9,6 @@ Welcome to my CodSoft internship repository! This repository contains the tasks 
 - [Task 2: Student Grade Calculator](#task-2-Student-Grade-Calculator)
 - [Task 3: ATM Interface](#task-3-ATM-Interface)
 - [Task 4: Currency Converter](#task-4-Currency-Converter)
-- [Task 5: Student Management System](#task-5-Student-Management-Systems)
 
 ## Task 1: Number Game
 *Date:* July 1, 2024
@@ -67,10 +66,4 @@ Task 3: ATM Interface
 
 *Files:* 
 - [Task_04](Task_04/CurrencyConverter.java)
-- 
-## Task 5: Student Management System
-*Date:* July 25, 2024
-
-*Description:* 
-- Exploring advanced Java concepts such as multithreading, file handling,
--
+ 
